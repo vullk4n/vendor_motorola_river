@@ -346,7 +346,3 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/river/proprietary/vendor/lib64/vendor.egistec.hardware.fingerprint@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.egistec.hardware.fingerprint@2.0.so \
     vendor/motorola/river/proprietary/vendor/lib64/vndk/libtinyalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vndk/libtinyalsa.so
 
-PRODUCT_PACKAGES += \
-    HotwordEnrollmentOKGoogleCS47L35 \
-    HotwordEnrollmentTGoogleCS47L35 \
-    HotwordEnrollmentXGoogleCS47L35
